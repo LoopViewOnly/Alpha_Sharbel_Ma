@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(252, 7, 7);
+}
+#scarymonstah {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACUCAMAAABCx6fPAAAAJFBMVEX////OESTNABj78PDgeYH++frihYzNCR/++/v66+zigIjVQUyDUp94AAABS0lEQVR4nO3ayW0cQBAEwRpKvP33V4s0YPkbEFCkBYX4dm+3e317OU96eXu9Pul+EAahIAxCQRiEgjAIBWEQCsIgFIRBKAiDUBAGoSAMQkEYhIIwCAVhEArCIBSEQSgIg1AQBqEgDEJBGISCMAgFYRAKwiAUhEEoCINQEAahIAxCQRiEgvDo4yeEj/ub/tzu8+s5wtfn9Un7e73v92cI79/3F+3lek8NHgr3F+35ov8jCAdCQTgQCsKBUBAOhIJwIBSEA6EgHAgF4UAoCAdCQTgQCsKBUBAOhIJwIBSERw6yj5zmH3nSeHT/NeY3vutcz+PWIBSEQSgIg1AQBqEgDEJBGISCMAgFYRAKwiAUhEEoCINQEAahIAxCQRiEgjAIBWEQCsIgFIRBKAiDUBAGoSAMQkEYhIIwCAVhEArCIBSEQSgIg1AQ9isR/gHlSUXpZNMDJgAAAABJRU5ErkJggg==');
+    background-size: cover;       /* Stretches/crops image to fill the div */
+    background-position: center;  /* Keeps the center of the image visible */
+    background-repeat: no-repeat;   
+}
+#frightingmonsters{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOusPB-6E7aS09_WyY4aSg_jJb6M51uKUyVRyLGynyHw&s=10');
+    background-size: cover;        /* Makes the image cover the whole screen */
+    background-position: center;   /* Centers the image */
+    background-repeat: no-repeat;  /* Stops the image from tiling/repeating */
+    background-attachment: fixed;     
+    font-size: 34px;
+}
+
+
